@@ -1,0 +1,10 @@
+Input:
+6  (size of the array.)
+4 5 4 3 4 3
+
+
+Output:
+5
+4
+4
+3
